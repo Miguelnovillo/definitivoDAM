@@ -5,7 +5,10 @@
     $userSession = new userSession();
     $user = new User();
 
-    
+    //MENU
+    //PUBLICACIONES
+    //FOOTER
+
     if(isset($_SESSION['user'])){
         //Hay sesión si estamos aquí
         include_once 'vistas/home.php';
