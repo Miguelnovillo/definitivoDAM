@@ -8,6 +8,8 @@
     //MENU
     //PUBLICACIONES
     //FOOTER
+    //HEADER
+    //ALCAPARRA
 
     if(isset($_SESSION['user'])){
         //Hay sesión si estamos aquí
