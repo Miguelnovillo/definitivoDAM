@@ -10,6 +10,9 @@
     //FOOTER
     //HEADER
     //ALCAPARRA
+    //Que ilusion mi primer push
+    //no se que mas poner
+    //AUSTRALIA
 
     if(isset($_SESSION['user'])){
         //Hay sesión si estamos aquí
